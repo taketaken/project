@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     @IBOutlet var label:UILabel!
     var number = 0
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
